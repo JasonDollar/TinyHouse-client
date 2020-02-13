@@ -1,8 +1,9 @@
 import React from 'react'
+import { Listings } from './sections'
 
 const App: React.FC = () => (
   <div>
-    hello world
+    <Listings />
   </div>
 )
 
